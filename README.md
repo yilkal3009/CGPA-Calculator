@@ -1,1 +1,1 @@
-To run this project, click the Code button and open in Codespaces" 
+"To run this project, go to the Releases page and download the .jar file."
